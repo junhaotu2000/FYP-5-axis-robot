@@ -1,5 +1,5 @@
 # FYP-5-axis-robot
-These are the files developed in Yihan LIU's Final Year Project, a 5-axis vision articulated robot
+These are the files developed for a 5-axis vision articulated robot
 The project is developed into 4 sections
 ## (1) Mechanical Structure
 This includes the CAD files of designed robot, whcih is designed base on BCN3D Moveo.  
