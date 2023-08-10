@@ -68,7 +68,7 @@ Code to train the camera using facial images in database, output classification 
 #### facial_recognition.py
 Code to recognize a specific face
 ## (4) Final Application
-Following codes is for the applications of integrated robot. The demonstration of it could be viewed via https://uniofnottm-my.sharepoint.com/:f:/g/personal/ssyyl20_nottingham_ac_uk/Er96vf4qYWJBqkzvtPdmCy0BttAT07Y9VWQ2YcLCw33cCg?e=NZlaZr   
+Following codes is for the applications of integrated robot. 
 ### (4.1) Pick and Place  
 Program to pick and place different colour objects into corresponding platforms. The program has been divided into different fucntions and the control code is in the control_panel.py.
 ### (4.2) Search and Classification  
