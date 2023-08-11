@@ -1,4 +1,4 @@
-# FYP-5-axis-robot
+# FYP-5-axis-robot.
 These are the files developed for a 5-axis vision articulated robot
 The project is developed into 4 sections
 ## (1) Mechanical Structure
